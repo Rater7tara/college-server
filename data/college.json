@@ -1,0 +1,225 @@
+[
+    {
+        "collegeImage": "https://i.ibb.co/928PGwX/Stanford.jpg",
+        "collegeName": "Stanford University",
+        "admissionDates": [
+          {
+            "start": "2023-09-01",
+            "end": "2023-11-30"
+          }
+        ],
+        "events": [
+          {
+            "name": "Orientation Day",
+            "date": "2023-09-15",
+            "location": "Campus"
+          },
+          {
+            "name": "Career Fair",
+            "date": "2023-10-20",
+            "location": "Convention Center"
+          }
+        ],
+        "researchHistory": "Stanford University has been at the forefront of cutting-edge research in various fields...",
+        "sports": [
+          {
+            "name": "Football",
+            "season": "Fall"
+          },
+          {
+            "name": "Basketball",
+            "season": "Winter"
+          },
+          {
+            "name": "Swimming",
+            "season": "Spring"
+          }
+        ]
+      },
+      {
+        "collegeImage": "https://i.ibb.co/QbDrWsL/Harvard.jpg",
+        "collegeName": "Harvard University",
+        "admissionDates": [
+          {
+            "start": "2023-08-01",
+            "end": "2023-11-15"
+          }
+        ],
+        "events": [
+          {
+            "name": "Open House",
+            "date": "2023-09-10",
+            "location": "Campus"
+          },
+          {
+            "name": "Job Fair",
+            "date": "2023-10-25",
+            "location": "Student Center"
+          }
+        ],
+        "researchHistory": "Harvard University has a rich history of groundbreaking research and academic excellence...",
+        "sports": [
+          {
+            "name": "Soccer",
+            "season": "Fall"
+          },
+          {
+            "name": "Tennis",
+            "season": "Spring"
+          },
+          {
+            "name": "Volleyball",
+            "season": "Summer"
+          }
+        ]
+      },
+      {
+        "collegeImage": "https://i.ibb.co/qMvdYM4/MIT.jpg",
+        "collegeName": "Massachusetts Institute of Technology (MIT)",
+        "admissionDates": [
+          {
+            "start": "2023-09-01",
+            "end": "2023-10-31"
+          }
+        ],
+        "events": [
+          {
+            "name": "Campus Festival",
+            "date": "2023-09-22",
+            "location": "Campus Grounds"
+          },
+          {
+            "name": "Alumni Homecoming",
+            "date": "2023-10-28",
+            "location": "University Hall"
+          }
+        ],
+        "researchHistory": "MIT is known for its pioneering contributions to various research fields...",
+        "sports": [
+          {
+            "name": "Baseball",
+            "season": "Spring"
+          },
+          {
+            "name": "Golf",
+            "season": "Summer"
+          },
+          {
+            "name": "Ice Hockey",
+            "season": "Winter"
+          }
+        ]
+      },
+      {
+        "collegeImage": "https://i.ibb.co/vZK1rq1/Califonia.jpg",
+        "collegeName": "University of California, Berkeley (UC Berkeley)",
+        "admissionDates": [
+          {
+            "start": "2023-09-01",
+            "end": "2023-11-01"
+          }
+        ],
+        "events": [
+          {
+            "name": "Science Fair",
+            "date": "2023-09-08",
+            "location": "Science Building"
+          },
+          {
+            "name": "Innovation Summit",
+            "date": "2023-10-10",
+            "location": "Conference Hall"
+          }
+        ],
+        "researchHistory": "UC Berkeley has made significant contributions to scientific research and innovation...",
+        "sports": [
+          {
+            "name": "Track and Field",
+            "season": "Spring"
+          },
+          {
+            "name": "Cross Country",
+            "season": "Fall"
+          },
+          {
+            "name": "Table Tennis",
+            "season": "Winter"
+          }
+        ]
+      },
+      {
+        "collegeImage": "https://i.ibb.co/C8hh8TP/Yale.jpg",
+        "collegeName": "Yale University",
+        "admissionDates": [
+          {
+            "start": "2023-09-01",
+            "end": "2023-12-15"
+          }
+        ],
+        "events": [
+          {
+            "name": "Thanksgiving Dinner",
+            "date": "2023-11-25",
+            "location": "Student Dining Hall"
+          },
+          {
+            "name": "Career Expo",
+            "date": "2024-10-05",
+            "location": "Student Center"
+          }
+        ],
+        "researchHistory": "Yale University is committed to research excellence and academic diversity...",
+        "sports": [
+          {
+            "name": "American Football",
+            "season": "Fall"
+          },
+          {
+            "name": "Basketball",
+            "season": "Winter"
+          },
+          {
+            "name": "Track and Field",
+            "season": "Spring"
+          }
+        ]
+      },
+      {
+        "collegeImage": "https://i.ibb.co/m9cxBMm/Princeton.jpg",
+        "collegeName": "Princeton University",
+        "admissionDates": [
+          {
+            "start": "2023-08-15",
+            "end": "2023-10-31"
+          }
+        ],
+        "events": [
+          {
+            "name": "Art Exhibition",
+            "date": "2023-09-22",
+            "location": "Gallery Hall"
+          },
+          {
+            "name": "Film Festival",
+            "date": "2023-10-15",
+            "location": "Auditorium"
+          }
+        ],
+        "researchHistory": "Princeton University is renowned for its academic achievements and research endeavors...",
+        "sports": [
+          {
+            "name": "Soccer",
+            "season": "Fall"
+          },
+          {
+            "name": "Basketball",
+            "season": "Winter"
+          },
+          {
+            "name": "Dance",
+            "season": "Year-round"
+          }
+        ]
+      }
+      
+]
